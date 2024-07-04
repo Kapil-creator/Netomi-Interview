@@ -1,0 +1,10 @@
+Question 1: Write Java code to move all zeros to left and all ones to right in array
+Question 2: If there is test data in 100 rows and you have to execute each test case with every 100 rows of test data, how will you do in selenium automation.
+Question 3: Explain public static void main
+Question 4: Write webdriver initialization snippet
+Question 5: Explain types of waits in selenium
+Question 6: is static mandatory in public static void main
+Question 7: OOPs concept in automation framework with real time examples
+Question 8: Roles and responsibilities in current project
+Question 9: Any specific reason to switch
+Question 10: Have you implemented AI in your project.
